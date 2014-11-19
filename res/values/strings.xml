@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calendar</string>
+    <string name="day_activity_label">Date</string>
+    <string name="event_activity_label">Event</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="prev_month_btn">&#xe726;</string>
+    <string name="next_month_btn">&#xe722;</string>
+    
+    <string name="back_btn">&#xe64e;</string>
+    <string name="add_event_btn">&#xe702;</string>
+    
+    <string name="save_btn">Save</string>
+    
+    <string name="event_input_hint">Type event in time here</string>
+    
+    <string name="action_back">back</string>
+    
+    
+    <string name="preference_file_key">com.example.anl2.PREFERENCE_FILE_KEY</string>
+
+    <!-- Data tag -->
+    <string name="data_year">d_year</string>
+    <string name="data_month">d_month</string>
+    <string name="data_day">d_day</string>
+    <string name="data_hour">d_hour</string>
+    <string name="event_id">event_id</string>
+</resources>
