@@ -49,7 +49,7 @@
         </activity>
         
         <activity
-            android:name=".NotificationView"
+            android:name=".NotificationActivity"
             android:label="Details of notification" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"

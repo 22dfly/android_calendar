@@ -13,10 +13,14 @@
     <string name="add_event_btn">&#xe702;</string>
     
     <string name="save_btn">Save</string>
+    <string name="delete_btn">Delete</string>
     
     <string name="event_input_hint">Type event in time here</string>
     
     <string name="action_back">back</string>
+    
+    <string name="remind_me">Remind me later</string>
+    <string name="dismiss">Dismiss</string>
     
     
     <string name="preference_file_key">com.example.anl2.PREFERENCE_FILE_KEY</string>
@@ -27,4 +31,7 @@
     <string name="data_day">d_day</string>
     <string name="data_hour">d_hour</string>
     <string name="event_id">event_id</string>
+    
+    <string name="notification_pending_intent_id">notification_pending_intent_id</string>
+    <string name="notification_id">notification_id</string>
 </resources>
